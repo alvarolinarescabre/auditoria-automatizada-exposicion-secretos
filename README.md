@@ -1,2 +1,1 @@
-# auditoria-automatizada-exposicion-secretos
-Auditoría Automatizada de Exposición de Secretos
+# Auditoría Automatizada de Exposición de Secretos
